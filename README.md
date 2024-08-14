@@ -31,7 +31,7 @@ This project is an Android application designed to recognize landmarks using a T
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/landmarks-recognition-app.git
+    git clone https://github.com/Tharwat07/landmarks-recognition-app.git
     cd landmarks-recognition-app
     ```
 
