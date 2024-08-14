@@ -1,4 +1,10 @@
 ## Landmarks Recognition App
+1/ ![Screenshot_20240814-154013](https://github.com/user-attachments/assets/7eba6307-c780-4cf9-b1b0-5e38d43a2088)
+2/ ![Screenshot_20240814-153954](https://github.com/user-attachments/assets/5f07c08b-2c75-49b6-bb1b-a75986219ef8)
+3/ ![Screenshot_20240814-154257](https://github.com/user-attachments/assets/240f8569-0518-4433-9681-5d67b7ec7d88)
+4/ ![Screenshot_20240814-154341](https://github.com/user-attachments/assets/c111b3d9-990e-4597-86ae-44854ff869f7)
+
+
 
 This project is an Android application designed to recognize landmarks using a TensorFlow Lite model. The app leverages the camera to capture images and classify them in real-time, providing users with the name and confidence score of the recognized landmarks.
 
